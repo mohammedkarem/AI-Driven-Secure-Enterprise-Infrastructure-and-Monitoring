@@ -32,7 +32,7 @@ This system was developed as a graduation project at the Faculty of Computers an
 * Shaza Mohamed Abdeltawab
 * Shahd Hamada Ebrahim
 * Kareem Mohammed abouzaid
-* Omar Ashraf Abdelfattah
+* Habiba Osama Saad Zaki
 
 The 10-member team is organized into three specialized sub-teams to ensure seamless system integration:
 * **Infrastructure & Network Engineering:** Responsible for network topology design, Windows Server deployment, and Firewall interface segregation and policies.
